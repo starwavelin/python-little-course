@@ -8,8 +8,8 @@ A little course on python3, primarily based on Python for Everybody on Coursera
 * [Chapter 1](chapter_01/): Reasons you should learn programming | 为何学编程
 * [Chapter 2](chapter_02/): Variables, expressions, and statements | 变量、表达式和语句
 * [Chapter 3](chapter_03/): Conditional execution | 条件执行
-* Chapter 4:
-* Chapter 5:
+* [Chapter 4](chapter_04/): Functions | 函数
+* [Chapter 5](chapter_05/): Iterations | 迭代
 
 ### Feedback | 反馈
 觉得内容不错请star这个repo
