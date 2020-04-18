@@ -12,4 +12,4 @@ A little course on python3, primarily based on Python for Everybody on Coursera
 * [Chapter 5](chapter_05/): Iterations | 迭代
 
 ### Feedback | 反馈
-觉得内容不错请star这个repo
+觉得内容不错请您:star:这个repo
