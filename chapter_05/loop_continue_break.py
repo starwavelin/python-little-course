@@ -1,6 +1,6 @@
 while True:
     line = input('< ')
-    if line[0] == '#':
+    if line.startswith('#'):
         continue
     elif line == 'done':
         break

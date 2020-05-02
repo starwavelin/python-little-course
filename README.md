@@ -10,6 +10,7 @@ A little course on python3, primarily based on Python for Everybody on Coursera
 * [Chapter 3](chapter_03/): Conditional execution | 条件执行
 * [Chapter 4](chapter_04/): Functions | 函数
 * [Chapter 5](chapter_05/): Iterations | 迭代
+* [Chapter 6](chapter_06/): Strings | 字符串
 
 ### Feedback | 反馈
 觉得内容不错请您:star:这个repo
