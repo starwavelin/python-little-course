@@ -4,7 +4,7 @@ A little course on python3, primarily based on Python for Everybody on Coursera
 一门 Python3 的小课，开发自 Coursera 上的 Python for Everybody 课程
 
 ### Table of Content | 目录
-* Chapter 0: Setup | 配置开发环境
+* Chapter 0: Setup | [配置开发环境](https://mp.weixin.qq.com/s/7ZHzkRseMwVl1XfiiGSSxg)
 * [Chapter 1](chapter_01/): Reasons you should learn programming | 为何学编程
 * [Chapter 2](chapter_02/): Variables, expressions, and statements | 变量、表达式和语句
 * [Chapter 3](chapter_03/): Conditional execution | 条件执行
