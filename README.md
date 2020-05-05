@@ -12,7 +12,10 @@ A little course on python3, primarily based on Python for Everybody on Coursera
 * [Chapter 5](chapter_05/): Iterations | 迭代
 * [Chapter 6](chapter_06/): Strings | 字符串
 * [Chapter 7](chapter_07/): Files | 文件
+* [Chapter 8](chapter_08/): Lists | 列表
+* [Chapter 9](chapter_09/): Dictionaries | 字典
+* [Chapter 10](chapter_10/): Tuples | 元组
 
 ### Feedback | 反馈
 觉得内容不错请您:star:这个repo  
-更多内容敬请关注YouTuber: **代码笔记哥**
+更多内容敬请关注YouTuber: [**代码笔记哥**](https://www.youtube.com/channel/UCN6VE6MqnYGEkCO7J1SLJfA)
