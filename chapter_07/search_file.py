@@ -1,7 +1,7 @@
-filename = input('Please enter your file name:') # ie. mbox-short.txt
+filename = input('Please enter your file name:')  # ie. ../files/mbox-short.txt
 try:
     fhand = open(filename)
-except:
+except Exception:
     print('File name not found!')
     exit()
 

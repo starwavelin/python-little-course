@@ -1,4 +1,4 @@
-fname = input('Enter your file name:')
+fname = input('Enter your file name: (../files/FILE_NAME.txt)')
 try:
     finput = open(fname)
 except FileNotFoundError:

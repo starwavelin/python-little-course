@@ -1,4 +1,4 @@
-fname = input('Please enter your file name (../chapter_07/mbox-short.txt):')
+fname = input('Please enter your file name (../files/mbox-short.txt):')
 try:
     finput = open(fname)
 except FileNotFoundError:
