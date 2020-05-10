@@ -1,7 +1,7 @@
 fname = input('Enter your file name:')
 try:
     finput = open(fname)
-except:
+except FileNotFoundError:
     print(fname, 'cannot be found!')
     exit()
 

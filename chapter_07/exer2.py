@@ -1,7 +1,7 @@
-fname = input('Please enter your file name:') # ie. mbox-short.txt
+fname = input('Please enter your file name:')  # ie. mbox-short.txt
 try:
     finput = open(fname)
-except:
+except FileNotFoundError:
     print(fname, 'cannot be found!')
     exit()
 
@@ -20,14 +20,15 @@ print('Average spam confidence:', avg)
 fname = input("Enter file name: ")
 try:
     fh = open(fname)
-except:
+except FileNotFoundError:
     print(fname, 'cannot be found!')
     exit()
 
 spam_conf = 0.0
 count = 0
 for line in fh:
-    if not line.startswith("X-DSPAM-Confidence:") : continue
-    spam_conf += float(line[line.find(':') + 1 :].strip())
+    if not line.startswith("X-DSPAM-Confidence:"):
+        continue
+    spam_conf += float(line[line.find(':') + 1:].strip())
     count += 1
 print("Average spam confidence:", spam_conf / count)

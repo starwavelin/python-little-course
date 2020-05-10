@@ -10,12 +10,14 @@ a new list that contains all but the first and last elements
 # 1. t.pop(index)
 # 2. del t[index]
 
+
 def chop(t):
     if len(t) <= 2:
         print('The given list is less than or equal to 2 elements')
         return None
     t.pop(0)
     t.pop(len(t) - 1)
+
 
 def chop2(t):
     if len(t) <= 2:
@@ -24,14 +26,18 @@ def chop2(t):
     del t[0]
     del t[len(t) - 1]
 
+
 # If we're ok the original list to be middled, do the following
 def middle(t):
     chop(t)
     return t
 
-# If we want to preserve the original list, and only make a new list which is middled from the original list
+
+# If we want to preserve the original list, and only make a new list which is
+# middled from the original list
 def middle2(t):
     return t[1: len(t) - 1]
+
 
 '''
 Testing section

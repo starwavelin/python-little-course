@@ -1,8 +1,10 @@
 def bad_delete_head(t):
     t = t[1:]
 
+
 def tail(t):
     return t[1:]
+
 
 t1 = ['a', 'b', 'c', 'd']
 
