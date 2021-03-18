@@ -5,7 +5,7 @@ A little course on python3, primarily based on Python for Everybody on Coursera
 
 ### Table of Content | 目录
 * Chapter 0: Setup | [配置开发环境](https://mp.weixin.qq.com/s/7ZHzkRseMwVl1XfiiGSSxg) ([视频1](https://youtu.be/71MyrQI05xY), [视频2](https://youtu.be/xzy1GiizAbY))
-* [Chapter 1](chapter_01/): Reasons you should learn programming | [为何学编程](http://starwavelin.io/2020/05/16/free-python-01-why-learning/) ([视频](https://youtu.be/_xiUFAMckpg)
+* [Chapter 1](chapter_01/): Reasons you should learn programming | [为何学编程](http://starwavelin.io/2020/05/16/free-python-01-why-learning/) ([视频](https://youtu.be/_xiUFAMckpg))
 * [Chapter 2](chapter_02/): Variables, expressions, and statements | [变量、表达式和语句](http://starwavelin.io/2020/05/18/free-python-02-var/)
 * [Chapter 3](chapter_03/): Conditional execution | 条件执行
 * [Chapter 4](chapter_04/): Functions | 函数
